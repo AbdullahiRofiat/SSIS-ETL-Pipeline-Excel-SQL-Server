@@ -1,3 +1,5 @@
+![ETL Dashboard Preview](./Screenshot_20260401_210048.png)
+
 # SSIS ETL Pipeline: Excel → SQL Server
 
 ## Overview
